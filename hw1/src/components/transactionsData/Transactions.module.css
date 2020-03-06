@@ -1,0 +1,26 @@
+table {border-collapse: collapse;}
+.transactionHistory{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0 2px 10px rgb(26, 25, 25);
+    margin-bottom: 60px;
+    /* border: 1px solid rgb(0, 0, 0); */
+}
+/* td{border: 1px solid rgb(0, 0, 0);} */
+thead{
+    background-color: rgb(94, 204, 231);
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+tbody{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+th,td{padding: 10px;
+    border-right: 1px solid rgb(204, 201, 201) ;
+    width: 30%;
+}
